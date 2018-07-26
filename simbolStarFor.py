@@ -1,4 +1,3 @@
 n=int(input('Enter number:'))
-y="*"
-for y in n:
-    print(y)
+for y in range(n):
+    print("*")
