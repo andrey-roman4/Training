@@ -1,6 +1,6 @@
 from math import *
 x = int (input())
-y = float ((x -1) /2)
+y = float ((x - 1) /2)
 a = ceil(y)
 b = floor(y)
 t = int ((x * 45) + (a * 5) + (b * 15))
